@@ -1,7 +1,7 @@
 # ApiFacebookID
 using Spark Application, akka http , Cassandra.
 
-Create api: save data in cassandra:
+Create api: save data in cassandra.
 # API INPUT:
 
 header: Authorization : basic *********
