@@ -2,7 +2,8 @@
 using Spark Application, akka http , Cassandra.
 
 Create api: save data in cassandra:
-API INPUT:
+# API INPUT:
+
 header: Authorization : basic *********
 body: json/application
   {
